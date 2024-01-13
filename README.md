@@ -7,6 +7,6 @@
 ## Create First Application
 - cargo new applicationname
 #### Go to application folder cd applicationname then type following command
--- cargo build
--- cargo run
+* cargo build
+* cargo run
 
