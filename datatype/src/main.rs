@@ -33,7 +33,11 @@ fn main() {
     // data.push(6);
     // println!("data = {:?}", data);
 
-    
+    // string data types
+    let user =String::from("ram");
+    print!("user = {}", user);
+    let name = "ram";
+    println!("name = {}", name);
 
 
 

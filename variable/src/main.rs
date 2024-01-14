@@ -1,6 +1,15 @@
 fn main() {
     let num = 200;
     println!("num = {}", num);
+    // here is an example of variable mutable 
+    let mut num = 100;
+    println!("num = {}", num);
+    num = 300;
+    println!("num = {}", num);
+    // constant variable
+    const MAX_NUM: u32 = 100_000;
+    println!("MAX_NUM = {}", MAX_NUM);
+
 }
 
 /*
